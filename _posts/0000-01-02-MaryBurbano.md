@@ -2,5 +2,5 @@
 diseño : titulo de la dispositiva
 : " Bienvenido a nuestra segunda dispositiva ! "
 ---
-Tu texto
+Ingenieria
 usa la flecha izquierda para volver !
